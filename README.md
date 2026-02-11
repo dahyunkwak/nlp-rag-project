@@ -40,7 +40,7 @@ Retrieval-Augmented Generation (RAG) 시스템을 구현하고,
 - **Pipeline Style**: Custom RAG implementation (not end-to-end framework)
 
 ##  Experiments & Results
-- 25/25 in EWHA 21/25 in MMLU PRO
+- 24/25 in EWHA 20/25 in MMLU PRO
 - Improved retrieval shows:
   - More relevant context selection
   - Reduced hallucination in answers
